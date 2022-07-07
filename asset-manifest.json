@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15f320ef.css",
+    "main.js": "/static/js/main.d6512f2a.js",
+    "static/js/787.ed8da555.chunk.js": "/static/js/787.ed8da555.chunk.js",
+    "static/media/charizard.png": "/static/media/charizard.2c6adf7821e2b74e9488.png",
+    "static/media/pokemon-logo.png": "/static/media/pokemon-logo.c8e5f5413616d2d8709c.png",
+    "static/media/psyduck.png": "/static/media/psyduck.d9bc4eb7549e6a7681b1.png",
+    "static/media/background.png": "/static/media/background.43e781e3a0526e4ff63a.png",
+    "index.html": "/index.html",
+    "main.15f320ef.css.map": "/static/css/main.15f320ef.css.map",
+    "main.d6512f2a.js.map": "/static/js/main.d6512f2a.js.map",
+    "787.ed8da555.chunk.js.map": "/static/js/787.ed8da555.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f320ef.css",
+    "static/js/main.d6512f2a.js"
+  ]
+}
