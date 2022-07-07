@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.15f320ef.css",
-    "main.js": "/static/js/main.d6512f2a.js",
-    "static/js/787.ed8da555.chunk.js": "/static/js/787.ed8da555.chunk.js",
-    "static/media/charizard.png": "/static/media/charizard.2c6adf7821e2b74e9488.png",
-    "static/media/pokemon-logo.png": "/static/media/pokemon-logo.c8e5f5413616d2d8709c.png",
-    "static/media/psyduck.png": "/static/media/psyduck.d9bc4eb7549e6a7681b1.png",
-    "static/media/background.png": "/static/media/background.43e781e3a0526e4ff63a.png",
-    "index.html": "/index.html",
-    "main.15f320ef.css.map": "/static/css/main.15f320ef.css.map",
-    "main.d6512f2a.js.map": "/static/js/main.d6512f2a.js.map",
-    "787.ed8da555.chunk.js.map": "/static/js/787.ed8da555.chunk.js.map"
+    "main.css": "/pokedex/static/css/main.67d31182.css",
+    "main.js": "/pokedex/static/js/main.b2e1785d.js",
+    "static/js/787.ed8da555.chunk.js": "/pokedex/static/js/787.ed8da555.chunk.js",
+    "static/media/charizard.png": "/pokedex/static/media/charizard.2c6adf7821e2b74e9488.png",
+    "static/media/pokemon-logo.png": "/pokedex/static/media/pokemon-logo.c8e5f5413616d2d8709c.png",
+    "static/media/psyduck.png": "/pokedex/static/media/psyduck.d9bc4eb7549e6a7681b1.png",
+    "static/media/background.png": "/pokedex/static/media/background.43e781e3a0526e4ff63a.png",
+    "index.html": "/pokedex/index.html",
+    "main.67d31182.css.map": "/pokedex/static/css/main.67d31182.css.map",
+    "main.b2e1785d.js.map": "/pokedex/static/js/main.b2e1785d.js.map",
+    "787.ed8da555.chunk.js.map": "/pokedex/static/js/787.ed8da555.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.15f320ef.css",
-    "static/js/main.d6512f2a.js"
+    "static/css/main.67d31182.css",
+    "static/js/main.b2e1785d.js"
   ]
 }
